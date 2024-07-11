@@ -12,7 +12,7 @@
 
 <p align="center"><b>Join the community <a href="t.me/seleniumdefitrade"><img valign="middle" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack" alt="Telegram"></a></b></p>
 
-Selenium Bot will allow you not to risk your assets, increase your profit from your purchases and transactions, and manage your assets like a real Jedi master
+<p align="center">Selenium Bot will allow you not to risk your assets, increase your profit from your purchases and transactions, and manage your assets like a real Jedi master</p>
 
 > Work on MAC OS & Windows
 
